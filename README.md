@@ -1,4 +1,4 @@
-# Samsung-Additional-Features-for-S10-S10+
+# Samsung-Additional-Features-for-S10-S10+ Magisk Module
 I am not responsible if this bricks your phone
 or
 causes thermonuclear war
