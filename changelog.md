@@ -1,4 +1,4 @@
-V1 Samsung Additional Features
+# v1.0
 
 Camera Tweaks:
 - HDR10+ 60FPS
