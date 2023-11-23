@@ -1,8 +1,7 @@
 **v1.2**
-- Remove Buildprop file
+Remove Buildprop file
 
 **v1.1**
-
 Bug Fix 
 - Floating Features
 
