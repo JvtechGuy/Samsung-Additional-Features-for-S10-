@@ -1,7 +1,8 @@
-**v2023.10.16 (202310160)**
-Remove Buildprop file
+**v1.2**
+- Remove Buildprop file
 
 **v1.1**
+
 Bug Fix 
 - Floating Features
 
