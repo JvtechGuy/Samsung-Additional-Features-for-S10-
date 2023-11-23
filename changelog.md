@@ -1,6 +1,7 @@
 **v1.2**
 
-Remove Buildprop file
+- Fix lag on video 4k 60
+- Remove Buildprop file
 
 **v1.1**
 
