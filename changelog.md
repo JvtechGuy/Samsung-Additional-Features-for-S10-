@@ -1,8 +1,11 @@
-# v1.1
+** v1.2 **
+Remove Buildprop file
+
+** v1.1 **
 Bug Fix 
 - Floating Features
 
-# v1.0
+** v1.0 **
 Camera Tweaks:
 - HDR10+ 60FPS
 - HDR10+ Front Camera
