@@ -1,3 +1,10 @@
+**v1.3**
+
+Added Build prop Tweaks
+ - net improvement 
+ - Camera audio improvement 
+ - fps improvement
+
 **v1.2**
 
 - Fix lag on video 4k 60
