@@ -7,7 +7,7 @@ First Download <a href="https://drive.google.com/file/d/1GyTlZXqR6zfw06DkSTnZsnL
 
 Then search "dim" and open notification panel add dim.
 - Various improvements to audio processing codecs.
--more
+- more
 
 **v1.3**
 
