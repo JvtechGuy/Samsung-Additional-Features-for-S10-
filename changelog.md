@@ -1,8 +1,7 @@
 **v1.4**
 
 - Extra Dim (how to enable extra dim?)
-
-First Download <a href="https://drive.google.com/file/d/1GyTlZXqR6zfw06DkSTnZsnLz1OldhIEb/view?usp=drivesdk">Activity Launcher</a> and install.
+First Download <a href="https://drive.google.com/file/d/1GyTlZXqR6zfw06DkSTnZsnLz1OldhIEb/view?usp=drivesdk">Root Activity Launcher</a> and install.
 Search "dim" and open notification panel add dim.
 - Various improvements to audio processing codecs.
 
